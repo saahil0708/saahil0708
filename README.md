@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Saahil</h1>
-<h3 align="center">Full-Stack Developer | UI/YX Enthusiast | Code + Design Nerd</h3>
+<h3 align="center">Full-Stack Developer | UI/UX Enthusiast | Code + Design Nerd</h3>
 
 ---
 
